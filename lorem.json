@@ -57,6 +57,20 @@
     "favoriteFruit": "apple"
   },
   {
+    "_id": "596cb9aefcfe18b00cc46bc5",
+    "index": 4,
+    "guid": "a5789a0d-e1bd-41a1-a45d-c7dd78b75127",
+    "isActive": true,
+    "balance": "$1,517.73",
+    "picture": "http://placehold.it/32x32",
+    "age": 33,
+    "eyeColor": "blue",
+    "name": {
+      "first": "Ashlee",
+      "last": "Valentine"
+    },
+  },
+  {
     "_id": "596cb8addc2b7c32f6059fa1",
     "index": 1,
     "guid": "3c318089-1b3f-4d73-9090-f8cbdff424af",
@@ -169,6 +183,20 @@
     ],
     "greeting": "Hello, Stone! You have 6 unread messages.",
     "favoriteFruit": "banana"
+  },
+  {
+    "_id": "596cb9ae7730708c62358a00",
+    "index": 1,
+    "guid": "0a1364f5-c271-4f54-8705-d332a7e98a5c",
+    "isActive": true,
+    "balance": "$2,617.71",
+    "picture": "http://placehold.it/32x32",
+    "age": 32,
+    "eyeColor": "brown",
+    "name": {
+      "first": "Rosanne",
+      "last": "Johnson"
+    },
   },
   {
     "_id": "596cb8ad7fc1b6dca50b8192",
