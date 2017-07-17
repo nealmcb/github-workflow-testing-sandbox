@@ -326,7 +326,6 @@
       "last": "Nolan"
     },
     "company": "FANFARE",
-    "email": "sharon.nolan@fanfare.biz",
     "phone": "+1 (886) 496-3383",
     "address": "323 Minna Street, Moraida, Alabama, 9177",
     "about": "Tempor ad dolor aute cillum excepteur aute deserunt quis elit Lorem est. Veniam cupidatat consequat voluptate incididunt mollit velit consectetur. Elit minim irure occaecat Lorem enim esse incididunt aliqua. Eu incididunt consectetur mollit anim ad laboris sunt.",
@@ -369,63 +368,7 @@
     "greeting": "Hello, Sharon! You have 5 unread messages.",
     "favoriteFruit": "strawberry"
   },
-  {
-    "_id": "596cb8ad5aa644f39466df2b",
-    "index": 6,
-    "guid": "567c1c38-303e-4204-9d0a-f99e7e721efd",
-    "isActive": false,
-    "balance": "$2,786.27",
-    "picture": "http://placehold.it/32x32",
-    "age": 22,
-    "eyeColor": "brown",
-    "name": {
-      "first": "Angel",
-      "last": "Noble"
-    },
-    "company": "BLEENDOT",
-    "email": "angel.noble@bleendot.name",
-    "phone": "+1 (874) 404-3828",
-    "address": "583 Terrace Place, Yonah, Iowa, 8372",
-    "about": "Tempor mollit proident ullamco ea adipisicing labore reprehenderit proident officia ex mollit occaecat sint. Dolore cillum eu nulla ipsum deserunt ad tempor tempor cupidatat. Voluptate do velit adipisicing adipisicing ipsum. Ipsum aliquip duis aute incididunt ad. Ad cupidatat excepteur eu dolor consequat deserunt esse. In nostrud mollit aute ullamco voluptate fugiat dolor ullamco veniam mollit id Lorem esse officia. Ut aute Lorem duis sunt est aliqua qui dolore ipsum qui ex irure.",
-    "registered": "Sunday, April 23, 2017 2:09 PM",
-    "latitude": "57.201539",
-    "longitude": "16.579484",
-    "tags": [
-      "deserunt",
-      "velit",
-      "labore",
-      "ad",
-      "excepteur"
-    ],
-    "range": [
-      0,
-      1,
-      2,
-      3,
-      4,
-      5,
-      6,
-      7,
-      8,
-      9
-    ],
-    "friends": [
-      {
-        "id": 0,
-        "name": "Sutton Kaufman"
-      },
-      {
-        "id": 1,
-        "name": "Green Kelley"
-      },
-      {
-        "id": 2,
-        "name": "Glenda Grant"
-      }
-    ],
-    "greeting": "Hello, Angel! You have 8 unread messages.",
-    "favoriteFruit": "strawberry"
-  },
+},
   {
     "_id": "596cb8ad45904b7323ea9b01",
     "index": 7,
